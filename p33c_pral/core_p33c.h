@@ -15,8 +15,6 @@
     #define __INLINE inline ///< inline keyword for GNU Compiler
 #endif
 
-
-
 #endif	/* CORE_P33C_H */
 
 // _____________________________________
