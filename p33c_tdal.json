@@ -10,7 +10,7 @@
   "license": "Microchip proprietary (use exclusively with Microchip products)",
   "root-directory": "p33c_pral",
   "include-paths": [ "." ],
-  "repository": "https://github.com/areiter128/p33c_tdal",
+  "repository": "https://github.com/areiter128/pstpl-p33c-tdal",
   "repository-ignore": [
     ".mchp-private/",
     "_dox/",
@@ -67,7 +67,6 @@
     { "path": "exth/p33c_i2c-d.h" },
     { "path": "exth/p33c_irq.h" },
     { "path": "exth/p33c_irq-d.h" },
-    { "path": "exth/p33c_mcal.h" },
     { "path": "exth/p33c_mpuart.h" },
     { "path": "exth/p33c_mpuart-d.h" },
     { "path": "exth/p33c_msi.h" },
