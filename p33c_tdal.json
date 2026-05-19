@@ -67,6 +67,7 @@
     { "path": "exth/p33c_i2c-d.h" },
     { "path": "exth/p33c_irq.h" },
     { "path": "exth/p33c_irq-d.h" },
+    { "path": "exth/p33c_mcal.h" },
     { "path": "exth/p33c_mpuart.h" },
     { "path": "exth/p33c_mpuart-d.h" },
     { "path": "exth/p33c_msi.h" },
